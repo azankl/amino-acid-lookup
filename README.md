@@ -1,3 +1,12 @@
+> [!NOTE]
+> This is the development repo for the [Amino Acid Lookup](https://www.raycast.com/azankl/amino-acid-lookup) extension for [Raycast](https://www.raycast.com/).  
+>
+> To publish the repo to Raycast:
+> 1. Copy this repo to azankl/raycast-extensions/amino-acid-lookup
+> 2. Delete the test folder and the Claude.md file
+> 3. Remove this section and the Development section below from the README.md
+> 4. Submit a pull request to the Raycast repo
+
 # Amino Acid Lookup for Raycast
 
 Look up amino acids by one-letter code, three-letter code or full name — as you type, calculator-style.
